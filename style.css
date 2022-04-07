@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
-/* ### LOGIC ################ */
+
 .number9 + * { --digit: 0; }
 .number0:checked + * + * + * + * + * + * + * + * + * + * { --digit: 0; }
 .number1:checked + * + * + * + * + * + * + * + * + * { --digit: 1; }
